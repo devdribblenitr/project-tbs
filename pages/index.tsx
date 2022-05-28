@@ -13,7 +13,7 @@ export default function Home() {
 
      
 
-     <div style={{height: "100vh", widht:  "100vw", background: "black", color: "white", display: "flex", alignItems: "center", justifyContent: "center", fontSize: "64px", fontWeight: "900"}}>This is the Home page of Project TBS</div>
+     <div style={{height: "100vh", background: "black", color: "white", display: "flex", alignItems: "center", justifyContent: "center", fontSize: "64px", fontWeight: "900"}}>This is the Home page of Project TBS</div>
     </div>
   )
 }
