@@ -12,10 +12,9 @@ export default function Home() {
         <meta name="description" content="The Bioscience Society - NIT Rourkela" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
-
-     <MissionVision/>
       
+     <MissionVision/>
+     
      
 
      <div style={{height: "100vh", background: "black", color: "white", display: "flex", alignItems: "center", justifyContent: "center", fontSize: "64px", fontWeight: "900"}}>This is the Home page of Project TBS</div>
