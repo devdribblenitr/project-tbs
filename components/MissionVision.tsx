@@ -1,7 +1,7 @@
 
 
 import React from 'react'
-import '../styles/globals.css';
+
 
 interface Props {
     title: string,
