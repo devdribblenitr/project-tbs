@@ -22,7 +22,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "components/our_reach.script.ts"  ],
   "exclude": [
     "node_modules"
   ]
